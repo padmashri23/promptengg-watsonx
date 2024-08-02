@@ -1,5 +1,6 @@
 # promptengg-watsonx
-understanding generative AI using watsonx 
+Understanding generative AI using watsonx 
+
 FIRST PROMPT:
 Model: flan-t5-xxl-11b
 Prompt text: tell me about India.
